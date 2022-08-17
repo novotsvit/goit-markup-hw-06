@@ -903,7 +903,7 @@ img {
   opacity: 1;
 }
 .register-agreement-text {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
